@@ -8,6 +8,10 @@
 - 🔍 **Search Metadata**: Easily search for specific tags or fields within the full EXIF data.
 - 🧩 **ExifTool-Powered**: Built on the power of `exiftool`, delivering accurate and comprehensive metadata parsing.
 
+### 📸 Screenshots
+
+![Screenshot](./Screenshots/Screenshot.png)
+
 ### ⚙️ Requirements
 
 Before using PixelPeeper, make sure you have `exiftool` installed on your system:
